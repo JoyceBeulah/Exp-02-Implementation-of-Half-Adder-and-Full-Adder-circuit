@@ -39,7 +39,7 @@ Program to design a half adder and full adder circuit and verify its truth table
 ```
 Developed by: R.Joyce Beulah
 RegisterNumber: 212222230058
-``
+```
 ```
 input a,b;
 output s,c;
